@@ -1,0 +1,18 @@
+front end:
++ react
+
+backend:
++ build api = python
+
++ create db = mysql
+question_id
+question_name
+answer_id
+answer_name
+answer_detail
+right_answer_id
+
+get_all_question
+get_question
+add_question
+delete_question
